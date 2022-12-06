@@ -14,7 +14,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "axios": "^0.19.2",
     "formik": "^2.1.5",
-    "qs": "^6.9.4",
+    "qs": "^6.9.7",
     "react": "16.13.1",
     "react-native": "0.63.1",
     "react-native-easy-toast": "^1.2.0",
